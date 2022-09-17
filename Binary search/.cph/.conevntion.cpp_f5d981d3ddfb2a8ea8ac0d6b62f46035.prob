@@ -1,0 +1,1 @@
+{"name":"Local: conevntion","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\cp\\Binary search\\conevntion.cpp","tests":[{"id":1655869054167,"input":"6 3 2\n1 1 10 14 4 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\cp\\Binary search\\conevntion.cpp","group":"local","local":true}

@@ -1,0 +1,7 @@
+ll powg2(ll n){
+		f1(i,32){
+			ll m = (ll)1<<i;
+           if(n<=m){break;}
+		}
+		cout<<i<<endl;
+}        

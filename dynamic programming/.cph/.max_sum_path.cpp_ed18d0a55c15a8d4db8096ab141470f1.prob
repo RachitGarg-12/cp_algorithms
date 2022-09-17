@@ -1,0 +1,1 @@
+{"name":"Local: max_sum_path","url":"d:\\cp_algorithms\\dynamic programming\\max_sum_path.cpp","tests":[{"id":1661677619122,"input":"3\n2 3\n3 2 1\n4 1 1\n3 3\n1 2 1\n3 5 1\n4 1 1\n2 2\n1 2\n3 4","output":"9\n11\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp_algorithms\\dynamic programming\\max_sum_path.cpp","group":"local","local":true}
